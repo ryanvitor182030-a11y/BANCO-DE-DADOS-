@@ -62,16 +62,10 @@ Nota Fiscal: Sem Registro
 
 Comprovante de Pagamento: Sem Registro
 
-#PRODUTOS 
-CÔMODOS PLANEJADOS
-MÓVEIS
-MESAS 
-CADEIRAS 
-GUARDA ROUPAS 
-CAMA 
-BALCÕES
-ARMÁRIOS 
-
+#PRODUTOS -
+Cômodos planejados 
+Cadeiras e mesas 
+Armários e guarda roupas 
 
 
 
