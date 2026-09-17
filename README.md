@@ -1,4 +1,4 @@
-# MARCENARIAARTE PLANEJADOS-
+# MARCENARIARTE PLANEJADOS-
 Marcenaria  			
 Nome: MarcenariaRTE Planejados
 Cnpj: 33.154.484/0001-04
@@ -62,7 +62,15 @@ Nota Fiscal: Sem Registro
 
 Comprovante de Pagamento: Sem Registro
 
-
+#PRODUTOS 
+CÔMODOS PLANEJADOS
+MÓVEIS
+MESAS 
+CADEIRAS 
+GUARDA ROUPAS 
+CAMA 
+BALCÕES
+ARMÁRIOS 
 
 
 
